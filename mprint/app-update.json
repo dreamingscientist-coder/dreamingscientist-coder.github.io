@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "ios": {
+    "enabled": false,
+    "storeAvailable": false,
+    "latestVersion": "1.0.3",
+    "minimumSupportedVersion": "1.0.0",
+    "mode": "optional",
+    "publishedReleases": [],
+    "expiresAt": "2027-01-30T00:00:00Z",
+    "storeUrl": "https://apps.apple.com/app/id6818488037",
+    "messages": {}
+  },
+  "android": {
+    "enabled": false,
+    "storeAvailable": false,
+    "latestVersion": "1.0.3",
+    "minimumSupportedVersion": "1.0.0",
+    "mode": "optional",
+    "publishedReleases": [],
+    "expiresAt": "2027-01-30T00:00:00Z",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.khacmuoivu.mprint",
+    "messages": {}
+  }
+}
